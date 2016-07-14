@@ -1153,6 +1153,7 @@
 			#footer {
 				bottom: 3.5em;
 				left: 3.5em;
+				text-align: right;
 			}
 
 		}
@@ -1162,6 +1163,7 @@
 			#footer {
 				bottom: 2em;
 				left: 2em;
+				text-align: right;
 			}
 
 		}
@@ -1171,6 +1173,7 @@
 			#footer {
 				bottom: 1.25em;
 				left: 1.25em;
+				text-align: right;
 			}
 
 		}
